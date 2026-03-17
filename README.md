@@ -1,8 +1,8 @@
-# ...Reminisce — Care Platform
+# ...Reminisce - Care Platform
 
 > 💙 Caring for those who cared for us
 
-**...Reminisce** is a web-based care platform designed to support individuals diagnosed with dementia and their caregivers. It provides regular cognitive memory tests to track mental health over time, sends medication reminders, monitors daily well-being, and enables quick access to emergency contacts — all in one place.
+**...Reminisce** is a web-based care platform designed to support individuals diagnosed with dementia and their caregivers. It provides regular cognitive memory tests to track mental health over time, sends medication reminders, monitors daily well-being, and enables quick access to emergency contacts, all in one place.
 
 ---
 
