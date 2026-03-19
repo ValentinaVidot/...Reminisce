@@ -1,7 +1,7 @@
 import { useState, useRef } from 'react'
 import { useNavigate } from 'react-router-dom'
 
-function VoiceResponse({ logo }) {
+function VoiceResponse() {
   const navigate = useNavigate()
   const [isRecording, setIsRecording] = useState(false)
   const [transcript, setTranscript] = useState('')
