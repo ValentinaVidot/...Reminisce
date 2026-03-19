@@ -58,7 +58,7 @@ function App() {
           />
           <Route path="/dashboard" element={<Dashboard logo={logo} />} />
           <Route path="/memory-test" element={<MemoryTest logo={logo} />} />
-          <Route path="/voice-response" element={<VoiceResponse logo={logo} />} />
+          <Route path="/voice-response" element={<VoiceResponse />} />
           <Route path="*" element={<Navigate to="/" replace />} />
         </Routes>
       </div>
